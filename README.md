@@ -26,7 +26,6 @@
   - [提交设置](#四提交设置)
 - **[Tips](#tips)**
 - **[参考资料](#参考资料)**
-- **[许可](#许可)**
 
 ## 一、SQL语言的分类
 
@@ -374,6 +373,3 @@ sequenceDiagram
 - [PyMySQL 官方文档](https://pymysql.readthedocs.io/en/latest/)
 - [Mermaid 官方文档](https://mermaid.js.org/)
 
-## 许可
-
-本笔记采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-hans) 许可。转载与改编时请注明原作者和来源、附上许可链接，并标明修改。
